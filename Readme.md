@@ -1,8 +1,7 @@
-# \# 📊 App Insights Unlocked: Google Play Store Data Analysis
+ App Insights Unlocked: Google Play Store Data Analysis
 
-# 
 
-### \## 📌 Project Overview
+ Project Overview
 
 
 
@@ -18,7 +17,7 @@ The dataset includes information about app ratings, reviews, installs, size, pri
 
 
 
-\## 🎯 **Problem Statement**
+ **Problem Statement**
 
 
 
@@ -40,39 +39,10 @@ The objective of this project is to:
 
 
 
-\## 📂 **Dataset**
+\
 
 
-
-\* Source: Google Play Store dataset (Kaggle)
-
-\* Key features:
-
-
-
-&#x20; \* App Name
-
-&#x20; \* Category
-
-&#x20; \* Rating
-
-&#x20; \* Reviews
-
-&#x20; \* Installs
-
-&#x20; \* Price
-
-&#x20; \* Size
-
-&#x20; \* Content Rating
-
-
-
-\---
-
-
-
-\## 🧹 **Data Cleaning \& Preprocessing**
+ **Data Cleaning \& Preprocessing**
 
 
 
@@ -80,9 +50,9 @@ The dataset was cleaned and prepared using the following steps:
 
 
 
-\* Removed duplicate records
+\ Removed duplicate records
 
-\* Converted data types (Rating, Reviews, Installs, Price)
+\ Converted data types (Rating, Reviews, Installs, Price)
 
 \* Cleaned "Installs" column (removed + and commas)
 
@@ -102,7 +72,7 @@ The dataset was cleaned and prepared using the following steps:
 
 
 
-\## 🛠 **Tools \& Technologies Used**
+ **Tools \& Technologies Used**
 
 
 
@@ -120,7 +90,7 @@ The dataset was cleaned and prepared using the following steps:
 
 
 
-\## 📊 **Exploratory Data Analysis (EDA)**
+\ **Exploratory Data Analysis (EDA)**
 
 
 
@@ -144,7 +114,7 @@ EDA was performed to understand:
 
 
 
-\## 📈 **Dashboard Highlights**
+\ **Dashboard Highlights**
 
 
 
@@ -170,7 +140,7 @@ The Power BI dashboard includes:
 
 
 
-\## 🔍 **Key Insights**
+\ **Key Insights**
 
 
 
@@ -190,7 +160,7 @@ The Power BI dashboard includes:
 
 
 
-\## 💡 **Business Recommendations**
+\ **Business Recommendations**
 
 
 
@@ -210,7 +180,7 @@ The Power BI dashboard includes:
 
 
 
-\## ⚠️ **Challenges Faced**
+\**Challenges Faced**
 
 
 
@@ -228,7 +198,7 @@ The Power BI dashboard includes:
 
 
 
-\## 🚀 **Future Improvements**
+\ **Future Improvements**
 
 
 
@@ -246,7 +216,7 @@ The Power BI dashboard includes:
 
 
 
-\## 📌 **Conclusion**
+\ **Conclusion**
 
 
 
@@ -258,7 +228,7 @@ This project demonstrates how data analysis and visualization can help businesse
 
 
 
-\## 🙋‍♀️ **Author**
+\ **Author**
 
 
 
