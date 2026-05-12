@@ -1,4 +1,4 @@
- App Insights Unlocked: Google Play Store Data Analysis
+ App Insights Unlocked: Google Play Store App Data Analysis
 
 
  Project Overview
