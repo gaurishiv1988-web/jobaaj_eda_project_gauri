@@ -236,7 +236,7 @@ This project demonstrates how data analysis and visualization can help businesse
 
 \* Role: Data Analyst (Project)
 
-\* Tools: Excel | Power BI | Python
+\* Tools: Excel | Power BI | Python | Matplotlib | Seaborn |
 
 
 
